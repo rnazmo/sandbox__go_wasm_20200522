@@ -27,7 +27,8 @@ $ make server
 
 Then, access to http://localhost:8080/server/src/index.html on Chrome
 and open console.
-You succeed, if you see a message "Hello World from wasm!!".
+
+You succeed if you see a message "Hello World from wasm!!".
 
 ### Executing WebAssembly with Node.js
 
